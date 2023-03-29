@@ -3,3 +3,5 @@ Toto je jednoduchá verze řešení. Požadované funkce jsem implementoval př�
 
 ## Sestavení a spuštění aplikace
 Aplikaci lze sestavit prostřednictvím `Mavenu` (testovaná verze `3.8.1`) a `JDK 17`.
+
+Aplikace bude přístupná na adrese: http://localhost:8080/test-javista/
